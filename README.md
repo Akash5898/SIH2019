@@ -10,3 +10,7 @@ Other Resources:
 windspeed-openweather API
 
 presentation link: https://prezi.com/view/yJuPRLjdFApkMqcDF6bC/
+
+youtube links:
+https://www.youtube.com/watch?v=7ZCXeT3IzZc
+https://www.youtube.com/watch?v=bGlY2MNeKQE
